@@ -1,7 +1,4 @@
-# Rust: PyO3
 The following are simplified, abridged notes taken from the PyO3 user guide and other sources. The full user guide can be found here: [PyO3 User Guide](https://pyo3.rs)
-
-[toc]
 
 ## <u>Introduction</u>
 PyO3 is a Rust library that allows Rust code to be written in a way that can be compiled into Python modules. PyO3 is specified as a Rust dependency in `Cargo.toml`:

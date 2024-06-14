@@ -1,7 +1,3 @@
-# Python: AsyncIO
-
-[toc]
-
 ## <u> Introduction </u>
 Synchronous programming is when each statement is executed sequentially. Therefore, each statement has to wait for the previous one to finish executing:
 ```python3
